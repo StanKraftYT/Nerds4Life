@@ -1,2 +1,2 @@
 # Nerds4Life
-A game the interfaces with electronics.
+A game the interfaces with electronics. Made with C++.
